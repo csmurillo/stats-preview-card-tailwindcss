@@ -13,7 +13,7 @@ export default function Home() {
       <main className='relative bg-veryDarkBlue min-h-screen py-10 px-[5%] lg:py-[8%] lg:px-[10%]'>
         <Card/>
         <div className="absolute text-white attribution ml-5">
-        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">Frontend Mentor</a>. 
         Coded by <a href="#">Angel Murillo</a>.
       </div>
       </main>
